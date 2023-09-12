@@ -1,0 +1,35 @@
+<x>
+x-Host! = MAN_Host; 
+DEFINE: 
+Neural_Host_NAME; = <OUTPUT TYPE = "UnX"> OTUNUBI ABRAHAM AFOLABI </OUTPUT>;
+Host_Base_URL_PROTOCOL; = "+26*Nigeria";
+Base_URL_TYPE; = "Num-AlphaNumeric";
+Default_Base_URL; = "+f1-b6";
+Default_Neural_Script; = "*f7"/"*6*c7*15"/"*d2*a6*41*a2";
+Default_Neural_Text; = "u are good";
+Host_PROFILE_PICTURE; = "#";
+Host_SOCIAL_MEDIA_ID; = "#";
+Ai-Host_CAPACITY; = "84.29%";
+
+---------------------------------
+
+x-Host! = MAN_Host;
+DEFINE: 
+Ai-Host_CERTIFICATION: <EDU> ACS404/ChessinMedicals </EDU>;
+IQ1:CHESS_LEARNING_SPEED = SCALE:1-10 = 9;
+M_P_S:NEURAL_PROCESSOR_SPEED = SCALE:1-10 = 9;
+RAM:NEURAL_SORTING_1 = SCALE:1-10 = 8;
+ROM:NEURAL_SORTING_2 = SCALE:1-10 = 8;
+NEURAL_STRESS_LIMIT:NEURAL_SORTING_3 = SCALE:1-10 = 8;
+INFO_DATA_STORAGE_CAPACITY:NEURAL_HOST = SCALE:1-10 = 9;
+IQ2:NEURAL_SERVER = SCALE:1-10 = 8;
+
+---------------------------------
+
+x-Host! = MAN_Host;
+DEFINE:
+MAN_Host; = Ai_Host;
+Ai_Host_CAPACITY; = AGGREGATE%;
+AGGREGATE%; =  ((9+9+8+8+8+9+8)/70)%;
+Ai-Host_CAPACITY; = "84.29%";
+</x>
