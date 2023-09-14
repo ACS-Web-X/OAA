@@ -2,6 +2,8 @@
 x-Host! = MAN_Host; 
 DEFINE: 
 Neural_Host_NAME; = <OUTPUT TYPE = "UnX"> OTUNUBI ABRAHAM AFOLABI </OUTPUT>;
+Neural_Host_ID; = OAA;
+NDNS; = #NeuralCloud2;
 Host_Base_URL_PROTOCOL; = "+26*Nigeria";
 Base_URL_TYPE; = "Num-AlphaNumeric";
 Default_Base_URL; = "+f1-b6";
