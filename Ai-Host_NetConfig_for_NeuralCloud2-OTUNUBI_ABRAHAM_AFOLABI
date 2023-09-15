@@ -5,12 +5,13 @@ Neural_Host_NAME; = <OUTPUT TYPE = "UnX"> OTUNUBI ABRAHAM AFOLABI </OUTPUT>;
 Neural_Host_ID; = OAA;
 NDNS; = #NeuralCloud2;
 Host_Base_URL_PROTOCOL; = "+26*Nigeria";
-Base_URL_TYPE; = "Num-AlphaNumeric";
-Default_Base_URL; = "+f1-b6";
-Default_Neural_Script; = "*f7"/"*6*c7*15"/"*d2*a6*41*a2";
-Default_Neural_Text; = "u are good";
 Host_PROFILE_PICTURE; = "#";
 Host_SOCIAL_MEDIA_ID; = "#";
+Default_Base_URL; = "+f1-b6";
+Base_URL_TYPE; = "MoNo_Complex";
+Big_Data_TYPE; = Num_AlphaNumeric;
+Default_Neural_Script; = "*f7"/"*6*c7*15"/"*d2*a6*41*a2";
+Default_Neural_Text; = "u are good";
 Ai-Host_CAPACITY; = "84.29%";
 
 ---------------------------------
